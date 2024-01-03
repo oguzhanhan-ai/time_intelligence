@@ -1,0 +1,18 @@
+
+Elimizde Türkiye'nin  dört bir yanında faaliyet göstermekte olan zincir bir mağazaya ait satış verilerinin bulunduğu bir excel dosyası yer almaktadır. 
+
+Microsoft Power BI'daki çeşitli Time Intelligence ve Datetime fonksiyonlarını kullanarak sıfırdan bir tarih tablosu oluşturmanız ve,   
+
+Raporlama işlemleri için gerekli olan veri analizi işlemlerini gerçekleştirmeniz beklenmektedir.
+
+Sıfırdan tarih tablosu oluşturmanın birkaç farklı yöntemi bulunmaktadır:
+
+1-) SQL queryleri kullanabilirsiniz.
+
+2-) Microsoft Excel üzerinde tarihleri oluşturup oraya bağlanabilirsiniz.
+
+3-) Microsoft Power BI'ın modelleme katmanında yer alan CALENDER() ya da CALENDERAUTO() fonksiyonlarını kullanabilirsiniz veya,
+
+4-) Microsoft Power BI'ın query penceresinin ve M dilinin yeteneklerinden faydalabilirsiniz.
+
+Not: Çalışma boyunca Microsoft Power BI'ın query pencerisinin ve M dilinin yeteneklerinden faydalanılmıştır.
